@@ -93,11 +93,12 @@ markdown_extensions:
 nav:
   - Background : index.md
   - Usage:
-    - 1. Prepare the Repo: user-guide/prepare-repo.md 
-    - 2. Issues: user-guide/issues.md
-    - 3. Feature Branches : user-guide/feature-branch.md
-    - 4. Pull Request: user-guide/pull-request.md
-    - 5. Use CI: user-guide/ci.md
-    - 6. Mkdocs: user-guide/mkdocs.md
+    - 1. Getting Started: user-guide/getting-started.md
+    - 2. Prepare the Repo: user-guide/prepare-repo.md 
+    - 3. Issues: user-guide/issues.md
+    - 4. Feature Branches : user-guide/feature-branch.md
+    - 5. Pull Request: user-guide/pull-request.md
+    - 6. Use CI: user-guide/ci.md
+    - 7. Mkdocs: user-guide/mkdocs.md
   - FAQ:
     - Contributions: user-guide/contributions.md
